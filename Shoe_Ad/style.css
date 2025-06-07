@@ -1,0 +1,602 @@
+.frame,
+.frame * {
+  box-sizing: border-box;
+}
+.frame {
+  background: rgba(197, 193, 193, 0.19);
+  border-radius: 37px;
+  border-style: solid;
+  border-color: #fffcfc;
+  border-width: 3px;
+  height: 1314px;
+  position: relative;
+  overflow: hidden;
+}
+.men {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  text-transform: uppercase;
+  position: absolute;
+  left: 169px;
+  top: 84px;
+  width: 45px;
+  height: 10px;
+}
+.women {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  text-transform: uppercase;
+  position: absolute;
+  left: 386px;
+  top: 84px;
+  width: 80px;
+  height: 10px;
+}
+.sale {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  text-transform: uppercase;
+  position: absolute;
+  left: 638px;
+  top: 84px;
+  width: 51px;
+  height: 10px;
+}
+.snkrs {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  text-transform: uppercase;
+  position: absolute;
+  left: 861px;
+  top: 84px;
+  width: 69px;
+  height: 10px;
+}
+.simple-icons-nike {
+  width: 77px;
+  height: 61px;
+  position: absolute;
+  left: 46px;
+  top: 43px;
+  overflow: visible;
+}
+.nike-air-max {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 84.36866760253906px;
+  font-weight: 700;
+  position: absolute;
+  left: -122px;
+  top: 267px;
+  width: 1087px;
+  height: 163.55px;
+}
+.lebagh {
+  color: #d55f0a;
+  text-align: center;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 144px;
+  font-weight: 300;
+  position: absolute;
+  left: 142px;
+  top: 349px;
+  width: 537.14px;
+  height: 194px;
+}
+._190 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 90px;
+  font-weight: 400;
+  position: absolute;
+  left: 96px;
+  top: 797px;
+  width: 357px;
+  height: 161px;
+}
+.rectangle-1 {
+  background: #fffefe;
+  border-radius: 100px;
+  width: 299px;
+  height: 91px;
+  position: absolute;
+  left: 512px;
+  top: 817px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25),
+    8px 11px 53px 8px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+}
+.add-to-cart {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  position: absolute;
+  left: 484px;
+  top: 843px;
+  width: 362px;
+  height: 82px;
+}
+.celebrating-hoops-classic-in-original-form-as-first-introduced-during-undercover-s-autumn-winter-2023-presentation-genuine-black-leather-takes-over-the-upper-while-a-smooth-leather-swoosh-accents-the-texture-and-collar-bring-a-decades-old-classic-look {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 21px;
+  line-height: 179.52%;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  position: absolute;
+  left: 169px;
+  top: 556px;
+  width: 685.22px;
+  height: 198.15px;
+}
+.celebrating-hoops-classic-in-original-form-as-first-introduced-during-undercover-s-autumn-winter-2023-presentation-genuine-black-leather-takes-over-the-upper-while-a-smooth-leather-swoosh-accents-the-texture-and-collar-bring-a-decades-old-classic-look-span {
+}
+.celebrating-hoops-classic-in-original-form-as-first-introduced-during-undercover-s-autumn-winter-2023-presentation-genuine-black-leather-takes-over-the-upper-while-a-smooth-leather-swoosh-accents-the-texture-and-collar-bring-a-decades-old-classic-look-span2 {
+  text-transform: lowercase;
+}
+.vector-1 {
+  width: 1622px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 198px;
+  transform: translate(0px, -1px);
+  overflow: visible;
+}
+.vector-2 {
+  width: 1622px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 199px;
+  transform: translate(0px, -1px);
+  overflow: visible;
+}
+.vector-3 {
+  width: 1622px;
+  height: 0px;
+  position: absolute;
+  left: 3px;
+  top: 945px;
+  transform: translate(0px, -0.5px);
+  overflow: visible;
+}
+.just-do-it {
+  color: rgba(251, 168, 91, 0.38);
+  text-align: left;
+  font-family: "Inter-Thin", sans-serif;
+  font-size: 324px;
+  font-weight: 100;
+  text-transform: uppercase;
+  position: absolute;
+  left: 885px;
+  top: 10px;
+  width: 840px;
+  height: 573px;
+}
+.rectangle-2 {
+  background: #c7c7c7;
+  border-radius: 43px;
+  width: 254px;
+  height: 176px;
+  position: absolute;
+  left: 27px;
+  top: 1028px;
+}
+.rectangle-4 {
+  background: #c7c7c7;
+  border-radius: 43px;
+  width: 254px;
+  height: 176px;
+  position: absolute;
+  left: 316px;
+  top: 1029px;
+}
+.rectangle-6 {
+  background: #c7c7c7;
+  border-radius: 43px;
+  width: 254px;
+  height: 176px;
+  position: absolute;
+  left: 607px;
+  top: 1026px;
+}
+.img-20230911-wa-0021-1 {
+  width: 258.99px;
+  height: 284.57px;
+  position: absolute;
+  left: -62px;
+  top: 974.8px;
+  box-shadow: 14px 8px 30px 0px rgba(0, 0, 0, 0.25);
+  transform-origin: 0 0;
+  transform: rotate(-32.145deg) scale(1, 1);
+  object-fit: cover;
+}
+.img-20230911-wa-0021-3 {
+  width: 258.99px;
+  height: 284.57px;
+  position: absolute;
+  left: 238px;
+  top: 975.8px;
+  box-shadow: 14px 8px 30px 0px rgba(0, 0, 0, 0.25);
+  transform-origin: 0 0;
+  transform: rotate(-32.145deg) scale(1, 1);
+  object-fit: cover;
+}
+.img-20230911-wa-0021-5 {
+  width: 258.99px;
+  height: 284.57px;
+  position: absolute;
+  left: 514px;
+  top: 968.8px;
+  box-shadow: 14px 8px 30px 0px rgba(0, 0, 0, 0.25);
+  transform-origin: 0 0;
+  transform: rotate(-32.145deg) scale(1, 1);
+  object-fit: cover;
+}
+.img-20230911-wa-0021-2 {
+  width: 258.99px;
+  height: 284.57px;
+  position: absolute;
+  left: -62px;
+  top: 975.8px;
+  transform-origin: 0 0;
+  transform: rotate(-32.145deg) scale(1, 1);
+  object-fit: cover;
+}
+.img-20230911-wa-0021-4 {
+  width: 258.99px;
+  height: 284.57px;
+  position: absolute;
+  left: 236px;
+  top: 975.8px;
+  transform-origin: 0 0;
+  transform: rotate(-32.145deg) scale(1, 1);
+  object-fit: cover;
+}
+.img-20230911-wa-0021-6 {
+  width: 258.99px;
+  height: 284.57px;
+  position: absolute;
+  left: 514px;
+  top: 970.8px;
+  transform-origin: 0 0;
+  transform: rotate(-32.145deg) scale(1, 1);
+  object-fit: cover;
+}
+.nike-air-one-take {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 162.52%;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  text-transform: uppercase;
+  position: absolute;
+  left: 169px;
+  top: 1074px;
+  width: 112px;
+  height: 42px;
+}
+.nike-air-hurahe {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 162.52%;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  text-transform: uppercase;
+  position: absolute;
+  left: 466px;
+  top: 1084px;
+  width: 112px;
+  height: 42px;
+}
+.nike-air-vomero {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 162.52%;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  text-transform: uppercase;
+  position: absolute;
+  left: 745px;
+  top: 1072px;
+  width: 112px;
+  height: 42px;
+}
+._180 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 162.52%;
+  letter-spacing: 0.03em;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: 171px;
+  top: 1143px;
+  width: 86px;
+  height: 42px;
+}
+._160 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 162.52%;
+  letter-spacing: 0.03em;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: 469px;
+  top: 1146px;
+  width: 86px;
+  height: 42px;
+}
+._1902 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 162.52%;
+  letter-spacing: 0.03em;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: 747px;
+  top: 1141px;
+  width: 86px;
+  height: 42px;
+}
+.star-1 {
+  width: 14px;
+  height: 21px;
+  position: absolute;
+  left: 47px;
+  top: 1174px;
+  overflow: visible;
+}
+.star-6 {
+  width: 14px;
+  height: 21px;
+  position: absolute;
+  left: 345px;
+  top: 1177px;
+  overflow: visible;
+}
+.star-11 {
+  width: 14px;
+  height: 21px;
+  position: absolute;
+  left: 623px;
+  top: 1172px;
+  overflow: visible;
+}
+.star-2 {
+  width: 15px;
+  height: 21px;
+  position: absolute;
+  left: 73px;
+  top: 1174px;
+  overflow: visible;
+}
+.star-7 {
+  width: 15px;
+  height: 21px;
+  position: absolute;
+  left: 371px;
+  top: 1177px;
+  overflow: visible;
+}
+.star-12 {
+  width: 15px;
+  height: 21px;
+  position: absolute;
+  left: 649px;
+  top: 1172px;
+  overflow: visible;
+}
+.star-3 {
+  width: 16px;
+  height: 21px;
+  position: absolute;
+  left: 99px;
+  top: 1174px;
+  overflow: visible;
+}
+.star-8 {
+  width: 16px;
+  height: 21px;
+  position: absolute;
+  left: 397px;
+  top: 1177px;
+  overflow: visible;
+}
+.star-13 {
+  width: 16px;
+  height: 21px;
+  position: absolute;
+  left: 675px;
+  top: 1172px;
+  overflow: visible;
+}
+.star-4 {
+  width: 15px;
+  height: 21px;
+  position: absolute;
+  left: 124px;
+  top: 1174px;
+  overflow: visible;
+}
+.star-9 {
+  width: 15px;
+  height: 21px;
+  position: absolute;
+  left: 422px;
+  top: 1177px;
+  overflow: visible;
+}
+.star-14 {
+  width: 15px;
+  height: 21px;
+  position: absolute;
+  left: 700px;
+  top: 1172px;
+  overflow: visible;
+}
+.star-5 {
+  width: 14px;
+  height: 21px;
+  position: absolute;
+  left: 148px;
+  top: 1174px;
+  overflow: visible;
+}
+.star-10 {
+  width: 14px;
+  height: 21px;
+  position: absolute;
+  left: 446px;
+  top: 1177px;
+  overflow: visible;
+}
+.star-15 {
+  width: 14px;
+  height: 21px;
+  position: absolute;
+  left: 724px;
+  top: 1172px;
+  overflow: visible;
+}
+.rectangle-3 {
+  background: #0c0c0c;
+  border-radius: 12px;
+  width: 57px;
+  height: 57px;
+  position: absolute;
+  left: 246px;
+  top: 1157px;
+}
+.rectangle-5 {
+  background: #0c0c0c;
+  border-radius: 12px;
+  width: 57px;
+  height: 57px;
+  position: absolute;
+  left: 544px;
+  top: 1160px;
+}
+.rectangle-7 {
+  background: #0c0c0c;
+  border-radius: 12px;
+  width: 57px;
+  height: 57px;
+  position: absolute;
+  left: 822px;
+  top: 1155px;
+}
+.tdesign-plus {
+  border-radius: 12px;
+  width: 61px;
+  height: 60px;
+  position: absolute;
+  left: 244px;
+  top: 1155px;
+  overflow: visible;
+}
+.tdesign-plus2 {
+  border-radius: 12px;
+  width: 61px;
+  height: 60px;
+  position: absolute;
+  left: 542px;
+  top: 1158px;
+  overflow: visible;
+}
+.tdesign-plus3 {
+  border-radius: 12px;
+  width: 61px;
+  height: 60px;
+  position: absolute;
+  left: 820px;
+  top: 1153px;
+  overflow: visible;
+}
+.line-1 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.64);
+  border-width: 2px 0 0 0;
+  width: 113px;
+  height: 0px;
+  position: absolute;
+  left: 73px;
+  top: 249px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.line-2 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #d36426;
+  border-width: 2px 0 0 0;
+  width: 51px;
+  height: 0px;
+  position: absolute;
+  left: 72px;
+  top: 380px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.frame-1 {
+  width: 76px;
+  height: 140px;
+  position: absolute;
+  left: 1246px;
+  top: 249px;
+  overflow: hidden;
+}
+.shoe-1 {
+  width: 1545px;
+  height: 1880px;
+  position: absolute;
+  left: 431px;
+  top: -163.87px;
+  transform-origin: 0 0;
+  transform: rotate(-11.428deg) scale(1, 1);
+  filter: blur(79px);
+  object-fit: cover;
+}
+.shoe-2 {
+  width: 1545px;
+  height: 1880px;
+  position: absolute;
+  left: 401px;
+  top: -180.87px;
+  transform-origin: 0 0;
+  transform: rotate(-11.428deg) scale(1, 1);
+  object-fit: cover;
+}
